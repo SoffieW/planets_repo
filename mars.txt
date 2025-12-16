@@ -1,3 +1,8 @@
 Cold and dry, but everything is my favourite colour.
 The two moons may be a problem for Wolfman
+<<<<<<< HEAD
 another local change
+=======
+Soffie was here.
+Change in github
+>>>>>>> eb5fce2062e4db99e35fc8d12a641877ed390379
